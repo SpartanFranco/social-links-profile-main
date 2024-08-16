@@ -55,6 +55,6 @@ button:hover{
 @media (min-width: 500px) {
     .card{
         width: 24rem;
-        padding:1.8rem 2.5rem 1.8rem 2.5rem ;
+        padding:2.5rem;
     }
 }
